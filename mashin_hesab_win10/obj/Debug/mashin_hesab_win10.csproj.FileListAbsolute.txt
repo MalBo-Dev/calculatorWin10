@@ -1,0 +1,9 @@
+C:\Users\moham\Desktop\C#\mashin_hesab_win10\mashin_hesab_win10\obj\Debug\mashin_hesab_win10.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\C#\mashin_hesab_win10\mashin_hesab_win10\obj\Debug\mashin_hesab_win10.Form1.resources
+C:\Users\moham\Desktop\C#\mashin_hesab_win10\mashin_hesab_win10\obj\Debug\mashin_hesab_win10.Properties.Resources.resources
+C:\Users\moham\Desktop\C#\mashin_hesab_win10\mashin_hesab_win10\obj\Debug\mashin_hesab_win10.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\C#\mashin_hesab_win10\mashin_hesab_win10\obj\Debug\mashin_hesab_win10.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\C#\mashin_hesab_win10\mashin_hesab_win10\bin\Debug\mashin_hesab_win10.exe
+C:\Users\moham\Desktop\C#\mashin_hesab_win10\mashin_hesab_win10\bin\Debug\mashin_hesab_win10.pdb
+C:\Users\moham\Desktop\C#\mashin_hesab_win10\mashin_hesab_win10\obj\Debug\mashin_hesab_win10.exe
+C:\Users\moham\Desktop\C#\mashin_hesab_win10\mashin_hesab_win10\obj\Debug\mashin_hesab_win10.pdb
