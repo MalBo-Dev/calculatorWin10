@@ -10,7 +10,7 @@ Windows 10 calculator source written with C#
 -------------------------------------------------------------------------
 
 ### ❤️Thank you Supporters - با تشکر از شما حامیان❤️
-[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/malbo-dev/calculatorWin10
+[![Stargazers repo roster for malbo-dev](https://reporoster.com/stars/dark/malbo-dev/calculatorWin10
 )](https://github.com/malbo-dev/calculatorWin10
 /stargazers)
 
